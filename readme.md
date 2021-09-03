@@ -1,5 +1,5 @@
-# Bayesian network datasets 
-This repository collected some datasets used in Bayesian network and Causal network
+# Bayesian Network Datasets 
+This repository collected some datasets used in Bayesian network and Causal network.
 - bnlearn
   - asia
   - cancer
@@ -12,5 +12,5 @@ This repository collected some datasets used in Bayesian network and Causal netw
   - lung cancer
   - lymphography 
 
-# acknowledgement
+# Acknowledgement
 I only collect them for personal study and research. I am happy if you pull request for adding dataset! 
